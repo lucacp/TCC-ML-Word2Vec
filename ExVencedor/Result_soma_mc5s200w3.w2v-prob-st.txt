@@ -1,0 +1,27 @@
+Buscando para algoritmo: <class 'sklearn.svm.classes.SVC'>
+
+Tempo de busca: 0.25 secs para 6 candidatos.
+Combinacao: 1
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'kernel': 'sigmoid', 'C': 1000, 'coef0': 0.0, 'gamma': 0.01, 'degree': 2}
+
+Combinacao: 2
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'kernel': 'sigmoid', 'C': 1000, 'coef0': 0.0, 'gamma': 0.01, 'degree': 3}
+
+Combinacao: 3
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'kernel': 'sigmoid', 'C': 1000, 'coef0': 0.1, 'gamma': 0.01, 'degree': 2}
+
+Combinacao: 4
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'kernel': 'sigmoid', 'C': 1000, 'coef0': 0.1, 'gamma': 0.01, 'degree': 3}
+
+Combinacao: 5
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'kernel': 'sigmoid', 'C': 1000, 'coef0': 0.01, 'gamma': 0.01, 'degree': 2}
+
+Combinacao: 6
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'kernel': 'sigmoid', 'C': 1000, 'coef0': 0.01, 'gamma': 0.01, 'degree': 3}
+

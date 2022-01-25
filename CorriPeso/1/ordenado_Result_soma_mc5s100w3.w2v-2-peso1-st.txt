@@ -1,0 +1,1990 @@
+Media: 677 Desvio_padrao: 159
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 677 Desvio_padrao: 188
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 661 Desvio_padrao: 185
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 1  loss: log }
+Media: 661 Desvio_padrao: 192
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 661 Desvio_padrao: 244
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 645 Desvio_padrao: 179
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 001  degree: 2 }
+Media: 645 Desvio_padrao: 179
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 001  degree: 3 }
+Media: 645 Desvio_padrao: 198
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 01  loss: log }
+Media: 629 Desvio_padrao: 107
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 629 Desvio_padrao: 126
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 1  loss: log }
+Media: 629 Desvio_padrao: 155
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 629 Desvio_padrao: 215
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 01  loss: log }
+Media: 629 Desvio_padrao: 224
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 613 Desvio_padrao: 153
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 613 Desvio_padrao: 153
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 613 Desvio_padrao: 159
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 613 Desvio_padrao: 169
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 01  loss: log }
+Media: 613 Desvio_padrao: 173
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 613 Desvio_padrao: 177
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 613 Desvio_padrao: 185
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: auto  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 01  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 0001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: auto  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 01  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 0001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: auto  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 01  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 0001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: auto  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 01  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 0001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: auto  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 01  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 0001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: auto  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 01  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 0001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: linear  C: 1  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 001  degree: 3 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 001  degree: 2 }
+Media: 613 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 001  degree: 3 }
+Media: 613 Desvio_padrao: 192
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 613 Desvio_padrao: 192
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 613 Desvio_padrao: 218
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 613 Desvio_padrao: 218
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 613 Desvio_padrao: 228
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 613 Desvio_padrao: 234
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 613 Desvio_padrao: 252
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 613 Desvio_padrao: 252
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 613 Desvio_padrao: 252
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 01  loss: log }
+Media: 613 Desvio_padrao: 266
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 597 Desvio_padrao: 155
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 597 Desvio_padrao: 164
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 597 Desvio_padrao: 173
+ Parametros:  { max_features: None  n_estimators: 7  criterion: gini }
+Media: 597 Desvio_padrao: 177
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 1  loss: log }
+Media: 597 Desvio_padrao: 179
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 597 Desvio_padrao: 179
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 597 Desvio_padrao: 194
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 597 Desvio_padrao: 205
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 597 Desvio_padrao: 208
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 597 Desvio_padrao: 212
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 1  loss: log }
+Media: 597 Desvio_padrao: 212
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 01  loss: log }
+Media: 597 Desvio_padrao: 224
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 597 Desvio_padrao: 230
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 01  loss: log }
+Media: 597 Desvio_padrao: 232
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 01  loss: log }
+Media: 597 Desvio_padrao: 248
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 001  loss: log }
+Media: 597 Desvio_padrao: 264
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 147
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 581 Desvio_padrao: 162
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 581 Desvio_padrao: 180
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 581 Desvio_padrao: 185
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 581 Desvio_padrao: 187
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 1  loss: log }
+Media: 581 Desvio_padrao: 192
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 1  loss: log }
+Media: 581 Desvio_padrao: 199
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 581 Desvio_padrao: 202
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 202
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 202
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 202
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 202
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 202
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 206
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 214
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 581 Desvio_padrao: 214
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 10  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 100  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: auto  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 01  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 0001  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: auto  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 01  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 0001  degree: 3 }
+Media: 581 Desvio_padrao: 216
+ Parametros:  { kernel: linear  C: 1000  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 581 Desvio_padrao: 220
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 220
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 581 Desvio_padrao: 224
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 581 Desvio_padrao: 226
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 581 Desvio_padrao: 226
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 581 Desvio_padrao: 230
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 232
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 1  loss: log }
+Media: 581 Desvio_padrao: 232
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 238
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 581 Desvio_padrao: 238
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 001  loss: log }
+Media: 581 Desvio_padrao: 240
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 1  loss: log }
+Media: 581 Desvio_padrao: 243
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 243
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 581 Desvio_padrao: 243
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 01  loss: log }
+Media: 581 Desvio_padrao: 246
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 581 Desvio_padrao: 251
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 581 Desvio_padrao: 259
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 581 Desvio_padrao: 283
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 565 Desvio_padrao: 152
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 565 Desvio_padrao: 163
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 565 Desvio_padrao: 163
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 565 Desvio_padrao: 171
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 565 Desvio_padrao: 178
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: auto  degree: 2 }
+Media: 565 Desvio_padrao: 178
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 01  degree: 2 }
+Media: 565 Desvio_padrao: 178
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 001  degree: 2 }
+Media: 565 Desvio_padrao: 179
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 565 Desvio_padrao: 186
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 01  loss: log }
+Media: 565 Desvio_padrao: 186
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 565 Desvio_padrao: 186
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 01  loss: log }
+Media: 565 Desvio_padrao: 186
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 565 Desvio_padrao: 191
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 565 Desvio_padrao: 193
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 565 Desvio_padrao: 193
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 565 Desvio_padrao: 200
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 565 Desvio_padrao: 205
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 565 Desvio_padrao: 205
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 565 Desvio_padrao: 209
+ Parametros:  { priors: None }
+Media: 565 Desvio_padrao: 222
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 565 Desvio_padrao: 222
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 01  loss: log }
+Media: 565 Desvio_padrao: 224
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 565 Desvio_padrao: 231
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 01  loss: log }
+Media: 565 Desvio_padrao: 235
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 565 Desvio_padrao: 237
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 565 Desvio_padrao: 241
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 565 Desvio_padrao: 243
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 565 Desvio_padrao: 243
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 1  loss: log }
+Media: 565 Desvio_padrao: 245
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 565 Desvio_padrao: 248
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 565 Desvio_padrao: 259
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 548 Desvio_padrao: 160
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 548 Desvio_padrao: 166
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 166
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 166
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 166
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 168
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 168
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 548 Desvio_padrao: 168
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 548 Desvio_padrao: 170
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 170
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 170
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 001  degree: 3 }
+Media: 548 Desvio_padrao: 176
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 01  loss: log }
+Media: 548 Desvio_padrao: 182
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 001  loss: log }
+Media: 548 Desvio_padrao: 182
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 548 Desvio_padrao: 184
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 1  loss: log }
+Media: 548 Desvio_padrao: 184
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 548 Desvio_padrao: 184
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 548 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 001  degree: 2 }
+Media: 548 Desvio_padrao: 191
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 01  loss: log }
+Media: 548 Desvio_padrao: 191
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 548 Desvio_padrao: 191
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 548 Desvio_padrao: 194
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 198
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 198
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: auto  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 01  degree: 2 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: auto  degree: 3 }
+Media: 548 Desvio_padrao: 199
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 01  degree: 3 }
+Media: 548 Desvio_padrao: 201
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 0001  degree: 2 }
+Media: 548 Desvio_padrao: 201
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 0001  degree: 3 }
+Media: 548 Desvio_padrao: 201
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 0001  degree: 2 }
+Media: 548 Desvio_padrao: 201
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 0001  degree: 3 }
+Media: 548 Desvio_padrao: 201
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 0001  degree: 2 }
+Media: 548 Desvio_padrao: 201
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 0001  degree: 3 }
+Media: 548 Desvio_padrao: 203
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 1  loss: log }
+Media: 548 Desvio_padrao: 203
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 203
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 548 Desvio_padrao: 205
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 548 Desvio_padrao: 205
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 548 Desvio_padrao: 205
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 548 Desvio_padrao: 209
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 548 Desvio_padrao: 209
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 548 Desvio_padrao: 217
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 548 Desvio_padrao: 222
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 1  loss: log }
+Media: 548 Desvio_padrao: 228
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 01  loss: log }
+Media: 548 Desvio_padrao: 229
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 1  loss: log }
+Media: 548 Desvio_padrao: 229
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 548 Desvio_padrao: 233
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 548 Desvio_padrao: 235
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 548 Desvio_padrao: 241
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 242
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 548 Desvio_padrao: 246
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 250
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 548 Desvio_padrao: 252
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 548 Desvio_padrao: 252
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 01  loss: log }
+Media: 548 Desvio_padrao: 256
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 548 Desvio_padrao: 261
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 548 Desvio_padrao: 262
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 532 Desvio_padrao: 116
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 532 Desvio_padrao: 147
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 001  degree: 2 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 001  degree: 2 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 001  degree: 2 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 0001  degree: 2 }
+Media: 532 Desvio_padrao: 151
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 0001  degree: 3 }
+Media: 532 Desvio_padrao: 164
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 01  loss: log }
+Media: 532 Desvio_padrao: 164
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 532 Desvio_padrao: 170
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 532 Desvio_padrao: 172
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 532 Desvio_padrao: 180
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 532 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: auto  degree: 3 }
+Media: 532 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 01  degree: 3 }
+Media: 532 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: auto  degree: 3 }
+Media: 532 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 01  degree: 3 }
+Media: 532 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 185
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 1  loss: log }
+Media: 532 Desvio_padrao: 185
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 532 Desvio_padrao: 192
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 01  loss: log }
+Media: 532 Desvio_padrao: 194
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 532 Desvio_padrao: 197
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 001  degree: 2 }
+Media: 532 Desvio_padrao: 197
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 197
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 001  degree: 2 }
+Media: 532 Desvio_padrao: 197
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 197
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 001  degree: 2 }
+Media: 532 Desvio_padrao: 197
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 001  degree: 3 }
+Media: 532 Desvio_padrao: 199
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 532 Desvio_padrao: 204
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 532 Desvio_padrao: 206
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 532 Desvio_padrao: 208
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 532 Desvio_padrao: 212
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 532 Desvio_padrao: 214
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 532 Desvio_padrao: 214
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 532 Desvio_padrao: 214
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 532 Desvio_padrao: 215
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 532 Desvio_padrao: 217
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 532 Desvio_padrao: 220
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 532 Desvio_padrao: 220
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 532 Desvio_padrao: 225
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 532 Desvio_padrao: 226
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 01  loss: log }
+Media: 532 Desvio_padrao: 238
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 532 Desvio_padrao: 238
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 532 Desvio_padrao: 240
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 532 Desvio_padrao: 243
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 532 Desvio_padrao: 254
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 127
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 516 Desvio_padrao: 130
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 1  loss: log }
+Media: 516 Desvio_padrao: 130
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 130
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 516 Desvio_padrao: 130
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 130
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 140
+ Parametros:  { max_features: 1  n_estimators: 3  criterion: gini }
+Media: 516 Desvio_padrao: 144
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 144
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 144
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 144
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: auto  degree: 2 }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 01  degree: 2 }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: auto  degree: 2 }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 01  degree: 2 }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 516 Desvio_padrao: 150
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 01  loss: log }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 158
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: auto  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 01  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: auto  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 01  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: auto  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 01  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: auto  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 01  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: auto  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 01  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: auto  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 01  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 1  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 100  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 100  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 100  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 100  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 1000  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 1000  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 162
+ Parametros:  { kernel: rbf  C: 1000  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 164
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 516 Desvio_padrao: 175
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 516 Desvio_padrao: 176
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 182
+ Parametros:  { max_features: None  n_estimators: 10  criterion: gini }
+Media: 516 Desvio_padrao: 187
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 187
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 187
+ Parametros:  { max_features: 2  n_estimators: 2  criterion: gini }
+Media: 516 Desvio_padrao: 188
+ Parametros:  { max_features: None  n_estimators: 10  criterion: entropy }
+Media: 516 Desvio_padrao: 189
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 001  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 001  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 0001  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 0001  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 1e-05  degree: 2 }
+Media: 516 Desvio_padrao: 190
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 1e-05  degree: 3 }
+Media: 516 Desvio_padrao: 192
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 516 Desvio_padrao: 201
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 203
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 516 Desvio_padrao: 203
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 210
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 210
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 516 Desvio_padrao: 214
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 516 Desvio_padrao: 214
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 216
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 516 Desvio_padrao: 216
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 516 Desvio_padrao: 216
+ Parametros:  { max_features: auto  n_estimators: 10  criterion: entropy }
+Media: 516 Desvio_padrao: 220
+ Parametros:  { max_features: None  n_estimators: 7  criterion: entropy }
+Media: 516 Desvio_padrao: 222
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 516 Desvio_padrao: 225
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 516 Desvio_padrao: 229
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: auto  degree: 2 }
+Media: 516 Desvio_padrao: 229
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 01  degree: 2 }
+Media: 516 Desvio_padrao: 239
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 516 Desvio_padrao: 242
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 516 Desvio_padrao: 243
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 516 Desvio_padrao: 245
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 516 Desvio_padrao: 249
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 516 Desvio_padrao: 256
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 516 Desvio_padrao: 258
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 516 Desvio_padrao: 261
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 516 Desvio_padrao: 265
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 516 Desvio_padrao: 265
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 516 Desvio_padrao: 267
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 001  loss: log }
+Media: 516 Desvio_padrao: 273
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 516 Desvio_padrao: 277
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 1  loss: log }
+Media: 516 Desvio_padrao: 284
+ Parametros:  { max_features: auto  n_estimators: 10  criterion: gini }
+Media: 516 Desvio_padrao: 301
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 121
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 001  degree: 2 }
+Media: 500 Desvio_padrao: 121
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 500 Desvio_padrao: 121
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 131
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 141
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 500 Desvio_padrao: 141
+ Parametros:  { max_features: auto  n_estimators: 2  criterion: entropy }
+Media: 500 Desvio_padrao: 148
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 500 Desvio_padrao: 151
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: auto  degree: 3 }
+Media: 500 Desvio_padrao: 151
+ Parametros:  { kernel: poly  C: 100  coef0: 1  gamma: 01  degree: 3 }
+Media: 500 Desvio_padrao: 151
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: auto  degree: 3 }
+Media: 500 Desvio_padrao: 151
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 01  degree: 3 }
+Media: 500 Desvio_padrao: 151
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 500 Desvio_padrao: 151
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 159
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 500 Desvio_padrao: 159
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: auto  degree: 2 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 01  degree: 2 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: auto  degree: 3 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 0  gamma: 01  degree: 3 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: auto  degree: 2 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 01  degree: 2 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: auto  degree: 3 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 1  gamma: 01  degree: 3 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: auto  degree: 2 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 01  degree: 2 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: auto  degree: 3 }
+Media: 500 Desvio_padrao: 165
+ Parametros:  { kernel: rbf  C: 10  coef0: 01  gamma: 01  degree: 3 }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: auto  degree: 2 }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 01  degree: 2 }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: auto  degree: 2 }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 01  degree: 2 }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 1  loss: log }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 500 Desvio_padrao: 167
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 500 Desvio_padrao: 175
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 500 Desvio_padrao: 181
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 500 Desvio_padrao: 183
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 500 Desvio_padrao: 184
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 500 Desvio_padrao: 188
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 500 Desvio_padrao: 190
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 204
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 500 Desvio_padrao: 205
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 500 Desvio_padrao: 206
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 500 Desvio_padrao: 208
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: auto  degree: 2 }
+Media: 500 Desvio_padrao: 208
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 01  degree: 2 }
+Media: 500 Desvio_padrao: 208
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 500 Desvio_padrao: 208
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 210
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 500 Desvio_padrao: 211
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 500 Desvio_padrao: 215
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 215
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 221
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 500 Desvio_padrao: 223
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 500 Desvio_padrao: 223
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 500 Desvio_padrao: 227
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 500 Desvio_padrao: 227
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 500 Desvio_padrao: 234
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 500 Desvio_padrao: 238
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 01  loss: hinge }
+Media: 500 Desvio_padrao: 248
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 500 Desvio_padrao: 251
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 1  loss: log }
+Media: 500 Desvio_padrao: 256
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 500 Desvio_padrao: 256
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 500 Desvio_padrao: 265
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 500 Desvio_padrao: 272
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 500 Desvio_padrao: 279
+ Parametros:  { max_features: 1  n_estimators: 3  criterion: entropy }
+Media: 500 Desvio_padrao: 285
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 001  loss: log }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 001  loss: log }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 120
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 130
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 1  loss: log }
+Media: 484 Desvio_padrao: 138
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 140
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 140
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 140
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 140
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 150
+ Parametros:  { kernel: poly  C: 1000  coef0: 1  gamma: 001  degree: 3 }
+Media: 484 Desvio_padrao: 158
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 158
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: auto  degree: 2 }
+Media: 484 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 01  degree: 2 }
+Media: 484 Desvio_padrao: 160
+ Parametros:  { kernel: poly  C: 1000  coef0: 0  gamma: 001  degree: 2 }
+Media: 484 Desvio_padrao: 164
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 484 Desvio_padrao: 172
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 175
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 484 Desvio_padrao: 175
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 484 Desvio_padrao: 175
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 484 Desvio_padrao: 180
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 180
+ Parametros:  { kernel: poly  C: 10  coef0: 0  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 180
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 484 Desvio_padrao: 182
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 484 Desvio_padrao: 182
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 484 Desvio_padrao: 187
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 189
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 484 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 190
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 194
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 197
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 484 Desvio_padrao: 199
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 203
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: auto  degree: 2 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 01  degree: 2 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 0  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: auto  degree: 2 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 01  degree: 2 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 1  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: auto  degree: 2 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 01  degree: 2 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: auto  degree: 3 }
+Media: 484 Desvio_padrao: 204
+ Parametros:  { kernel: rbf  C: 1  coef0: 01  gamma: 01  degree: 3 }
+Media: 484 Desvio_padrao: 208
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 484 Desvio_padrao: 220
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 220
+ Parametros:  { max_features: None  n_estimators: 5  criterion: gini }
+Media: 484 Desvio_padrao: 222
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 484 Desvio_padrao: 228
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 484 Desvio_padrao: 228
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 484 Desvio_padrao: 232
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 484 Desvio_padrao: 235
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 484 Desvio_padrao: 235
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 484 Desvio_padrao: 238
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 001  loss: log }
+Media: 484 Desvio_padrao: 238
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 484 Desvio_padrao: 239
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 484 Desvio_padrao: 243
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 244
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 484 Desvio_padrao: 246
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 484 Desvio_padrao: 247
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 250
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 484 Desvio_padrao: 265
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 484 Desvio_padrao: 270
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 001  loss: hinge }
+Media: 468 Desvio_padrao: 104
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 001  loss: hinge }
+Media: 468 Desvio_padrao: 124
+ Parametros:  { max_features: auto  n_estimators: 7  criterion: entropy }
+Media: 468 Desvio_padrao: 144
+ Parametros:  { max_features: 2  n_estimators: 2  criterion: entropy }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: auto  degree: 2 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 01  degree: 2 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: auto  degree: 3 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 0  gamma: 01  degree: 3 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: auto  degree: 2 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 01  degree: 2 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: auto  degree: 3 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 1  gamma: 01  degree: 3 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: auto  degree: 2 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 01  degree: 2 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: auto  degree: 3 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { kernel: sigmoid  C: 10  coef0: 01  gamma: 01  degree: 3 }
+Media: 468 Desvio_padrao: 147
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 468 Desvio_padrao: 153
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: constant  eta0: 1  loss: log }
+Media: 468 Desvio_padrao: 164
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 468 Desvio_padrao: 172
+ Parametros:  { max_features: auto  n_estimators: 3  criterion: entropy }
+Media: 468 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: auto  degree: 2 }
+Media: 468 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 10  coef0: 1  gamma: 01  degree: 2 }
+Media: 468 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: auto  degree: 2 }
+Media: 468 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 10  coef0: 01  gamma: 01  degree: 2 }
+Media: 468 Desvio_padrao: 181
+ Parametros:  { kernel: poly  C: 1000  coef0: 01  gamma: 001  degree: 2 }
+Media: 468 Desvio_padrao: 199
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 468 Desvio_padrao: 199
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 468 Desvio_padrao: 199
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 468 Desvio_padrao: 201
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: constant  eta0: 1  loss: log }
+Media: 468 Desvio_padrao: 201
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 468 Desvio_padrao: 202
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 1  loss: log }
+Media: 468 Desvio_padrao: 202
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 468 Desvio_padrao: 206
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 468 Desvio_padrao: 208
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 468 Desvio_padrao: 209
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 468 Desvio_padrao: 212
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 468 Desvio_padrao: 218
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 468 Desvio_padrao: 220
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 001  loss: squared_hinge }
+Media: 468 Desvio_padrao: 221
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 468 Desvio_padrao: 221
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 468 Desvio_padrao: 232
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 468 Desvio_padrao: 235
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: constant  eta0: 1  loss: log }
+Media: 468 Desvio_padrao: 236
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 468 Desvio_padrao: 236
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 468 Desvio_padrao: 249
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 468 Desvio_padrao: 258
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 468 Desvio_padrao: 259
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 1  loss: hinge }
+Media: 468 Desvio_padrao: 283
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 10  algorithm: ball_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 30  algorithm: ball_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 5  algorithm: ball_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 15  algorithm: ball_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 20  algorithm: ball_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 10  algorithm: kd_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 30  algorithm: kd_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 5  algorithm: kd_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 15  algorithm: kd_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 20  algorithm: kd_tree }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 10  algorithm: brute }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 30  algorithm: brute }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 5  algorithm: brute }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 15  algorithm: brute }
+Media: 468 Desvio_padrao: 303
+ Parametros:  { n_neighbors: 3  weights: distance  leaf_size: 20  algorithm: brute }
+Media: 452 Desvio_padrao: 130
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 452 Desvio_padrao: 166
+ Parametros:  { max_features: None  n_estimators: 2  criterion: entropy }
+Media: 452 Desvio_padrao: 185
+ Parametros:  { penalty: none  alpha: 001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 452 Desvio_padrao: 196
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 452 Desvio_padrao: 201
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 452 Desvio_padrao: 203
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 452 Desvio_padrao: 205
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 452 Desvio_padrao: 220
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 452 Desvio_padrao: 223
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 452 Desvio_padrao: 223
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 01  loss: hinge }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 10  algorithm: ball_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 30  algorithm: ball_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 5  algorithm: ball_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 15  algorithm: ball_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 20  algorithm: ball_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 10  algorithm: kd_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 30  algorithm: kd_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 5  algorithm: kd_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 15  algorithm: kd_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 20  algorithm: kd_tree }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 10  algorithm: brute }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 30  algorithm: brute }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 5  algorithm: brute }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 15  algorithm: brute }
+Media: 452 Desvio_padrao: 233
+ Parametros:  { n_neighbors: 5  weights: uniform  leaf_size: 20  algorithm: brute }
+Media: 452 Desvio_padrao: 239
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 452 Desvio_padrao: 242
+ Parametros:  { max_features: 2  n_estimators: 3  criterion: gini }
+Media: 452 Desvio_padrao: 246
+ Parametros:  { max_features: 1  n_estimators: 2  criterion: entropy }
+Media: 452 Desvio_padrao: 252
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 452 Desvio_padrao: 262
+ Parametros:  { penalty: none  alpha: 01  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 452 Desvio_padrao: 273
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 452 Desvio_padrao: 274
+ Parametros:  { max_features: 1  n_estimators: 5  criterion: entropy }
+Media: 435 Desvio_padrao: 126
+ Parametros:  { max_features: 2  n_estimators: 3  criterion: entropy }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: auto  degree: 2 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 01  degree: 2 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: auto  degree: 3 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 0  gamma: 01  degree: 3 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: auto  degree: 2 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 01  degree: 2 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: auto  degree: 3 }
+Media: 435 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 01  gamma: 01  degree: 3 }
+Media: 435 Desvio_padrao: 174
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 435 Desvio_padrao: 179
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 435 Desvio_padrao: 187
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 435 Desvio_padrao: 191
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 435 Desvio_padrao: 194
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 435 Desvio_padrao: 206
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 001  loss: perceptron }
+Media: 435 Desvio_padrao: 219
+ Parametros:  { max_features: auto  n_estimators: 5  criterion: gini }
+Media: 435 Desvio_padrao: 220
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 1  loss: perceptron }
+Media: 435 Desvio_padrao: 226
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: constant  eta0: 1  loss: hinge }
+Media: 435 Desvio_padrao: 239
+ Parametros:  { penalty: none  alpha: 001  learning_rate: optimal  eta0: 1  loss: squared_hinge }
+Media: 435 Desvio_padrao: 246
+ Parametros:  { penalty: elasticnet  alpha: 01  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 435 Desvio_padrao: 257
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 435 Desvio_padrao: 265
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 435 Desvio_padrao: 279
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 419 Desvio_padrao: 137
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: auto  degree: 2 }
+Media: 419 Desvio_padrao: 137
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 01  degree: 2 }
+Media: 419 Desvio_padrao: 137
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: auto  degree: 3 }
+Media: 419 Desvio_padrao: 137
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 0  gamma: 01  degree: 3 }
+Media: 419 Desvio_padrao: 144
+ Parametros:  { penalty: none  alpha: 01  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 419 Desvio_padrao: 159
+ Parametros:  { max_features: 1  n_estimators: 2  criterion: gini }
+Media: 419 Desvio_padrao: 165
+ Parametros:  { max_features: None  n_estimators: 3  criterion: gini }
+Media: 419 Desvio_padrao: 178
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: optimal  eta0: 001  loss: log }
+Media: 419 Desvio_padrao: 178
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 1  loss: log }
+Media: 419 Desvio_padrao: 181
+ Parametros:  { max_features: 2  n_estimators: 5  criterion: gini }
+Media: 419 Desvio_padrao: 194
+ Parametros:  { penalty: none  alpha: 1  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 419 Desvio_padrao: 202
+ Parametros:  { penalty: none  alpha: 0001  learning_rate: constant  eta0: 01  loss: perceptron }
+Media: 419 Desvio_padrao: 207
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: optimal  eta0: 01  loss: squared_hinge }
+Media: 419 Desvio_padrao: 212
+ Parametros:  { penalty: elasticnet  alpha: 1  learning_rate: constant  eta0: 1  loss: log }
+Media: 419 Desvio_padrao: 215
+ Parametros:  { max_features: 1  n_estimators: 10  criterion: entropy }
+Media: 419 Desvio_padrao: 218
+ Parametros:  { penalty: l2  alpha: 01  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 419 Desvio_padrao: 218
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 10  algorithm: ball_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 30  algorithm: ball_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 5  algorithm: ball_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 15  algorithm: ball_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 20  algorithm: ball_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 10  algorithm: kd_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 30  algorithm: kd_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 5  algorithm: kd_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 15  algorithm: kd_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 20  algorithm: kd_tree }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 10  algorithm: brute }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 30  algorithm: brute }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 5  algorithm: brute }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 15  algorithm: brute }
+Media: 419 Desvio_padrao: 247
+ Parametros:  { n_neighbors: 5  weights: distance  leaf_size: 20  algorithm: brute }
+Media: 419 Desvio_padrao: 253
+ Parametros:  { penalty: elasticnet  alpha: 0001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 419 Desvio_padrao: 268
+ Parametros:  { max_features: auto  n_estimators: 3  criterion: gini }
+Media: 419 Desvio_padrao: 270
+ Parametros:  { penalty: l2  alpha: 0001  learning_rate: optimal  eta0: 001  loss: squared_hinge }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: auto  degree: 2 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 01  degree: 2 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: auto  degree: 3 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 1  gamma: 01  degree: 3 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: auto  degree: 2 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 01  degree: 2 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: auto  degree: 3 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { kernel: sigmoid  C: 100  coef0: 01  gamma: 01  degree: 3 }
+Media: 403 Desvio_padrao: 155
+ Parametros:  { max_features: 2  n_estimators: 5  criterion: entropy }
+Media: 403 Desvio_padrao: 165
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 403 Desvio_padrao: 180
+ Parametros:  { max_features: auto  n_estimators: 7  criterion: gini }
+Media: 403 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: auto  degree: 2 }
+Media: 403 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 01  degree: 2 }
+Media: 403 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: auto  degree: 3 }
+Media: 403 Desvio_padrao: 187
+ Parametros:  { kernel: sigmoid  C: 1000  coef0: 1  gamma: 01  degree: 3 }
+Media: 403 Desvio_padrao: 187
+ Parametros:  { penalty: elasticnet  alpha: 001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 403 Desvio_padrao: 192
+ Parametros:  { max_features: 2  n_estimators: 7  criterion: entropy }
+Media: 403 Desvio_padrao: 194
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: constant  eta0: 1  loss: perceptron }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 10  algorithm: ball_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 30  algorithm: ball_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 5  algorithm: ball_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 15  algorithm: ball_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 20  algorithm: ball_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 10  algorithm: kd_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 30  algorithm: kd_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 5  algorithm: kd_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 15  algorithm: kd_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 20  algorithm: kd_tree }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 10  algorithm: brute }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 30  algorithm: brute }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 5  algorithm: brute }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 15  algorithm: brute }
+Media: 403 Desvio_padrao: 199
+ Parametros:  { n_neighbors: 10  weights: uniform  leaf_size: 20  algorithm: brute }
+Media: 403 Desvio_padrao: 208
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 001  loss: log }
+Media: 403 Desvio_padrao: 230
+ Parametros:  { penalty: none  alpha: 1  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 403 Desvio_padrao: 250
+ Parametros:  { max_features: None  n_estimators: 5  criterion: entropy }
+Media: 387 Desvio_padrao: 145
+ Parametros:  { max_features: 2  n_estimators: 7  criterion: gini }
+Media: 387 Desvio_padrao: 178
+ Parametros:  { max_features: 2  n_estimators: 10  criterion: gini }
+Media: 387 Desvio_padrao: 203
+ Parametros:  { max_features: auto  n_estimators: 5  criterion: entropy }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 10  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 30  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 5  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 15  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 20  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 10  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 30  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 5  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 15  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 20  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 10  algorithm: brute }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 30  algorithm: brute }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 5  algorithm: brute }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 15  algorithm: brute }
+Media: 387 Desvio_padrao: 218
+ Parametros:  { n_neighbors: 3  weights: uniform  leaf_size: 20  algorithm: brute }
+Media: 387 Desvio_padrao: 222
+ Parametros:  { penalty: l1  alpha: 1  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 387 Desvio_padrao: 228
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: optimal  eta0: 001  loss: perceptron }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 10  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 30  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 5  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 15  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 20  algorithm: ball_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 10  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 30  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 5  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 15  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 20  algorithm: kd_tree }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 10  algorithm: brute }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 30  algorithm: brute }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 5  algorithm: brute }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 15  algorithm: brute }
+Media: 387 Desvio_padrao: 237
+ Parametros:  { n_neighbors: 10  weights: distance  leaf_size: 20  algorithm: brute }
+Media: 387 Desvio_padrao: 269
+ Parametros:  { penalty: l1  alpha: 001  learning_rate: optimal  eta0: 01  loss: perceptron }
+Media: 371 Desvio_padrao: 181
+ Parametros:  { max_features: 1  n_estimators: 7  criterion: gini }
+Media: 371 Desvio_padrao: 182
+ Parametros:  { max_features: auto  n_estimators: 2  criterion: gini }
+Media: 371 Desvio_padrao: 182
+ Parametros:  { max_features: 1  n_estimators: 10  criterion: gini }
+Media: 371 Desvio_padrao: 215
+ Parametros:  { max_features: 1  n_estimators: 5  criterion: gini }
+Media: 371 Desvio_padrao: 221
+ Parametros:  { max_features: 1  n_estimators: 7  criterion: entropy }
+Media: 355 Desvio_padrao: 180
+ Parametros:  { penalty: l1  alpha: 0001  learning_rate: optimal  eta0: 01  loss: log }
+Media: 355 Desvio_padrao: 259
+ Parametros:  { penalty: l2  alpha: 1  learning_rate: constant  eta0: 1  loss: squared_hinge }
+Media: 323 Desvio_padrao: 163
+ Parametros:  { max_features: None  n_estimators: 3  criterion: entropy }
+Media: 323 Desvio_padrao: 186
+ Parametros:  { max_features: 2  n_estimators: 10  criterion: entropy }
+Media: 323 Desvio_padrao: 195
+ Parametros:  { penalty: l2  alpha: 001  learning_rate: constant  eta0: 01  loss: squared_hinge }
+Media: 323 Desvio_padrao: 237
+ Parametros:  { max_features: None  n_estimators: 2  criterion: gini }
+Media: 290 Desvio_padrao: 210
+ Parametros:  { penalty: l1  alpha: 01  learning_rate: constant  eta0: 01  loss: squared_hinge }

@@ -1,0 +1,1155 @@
+Buscando para algoritmo: <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'>
+
+Tempo de busca: 19.69 secs para 288 candidatos.
+Combinacao: 1
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 2
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 3
+Performance media: 0.640 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 4
+Performance media: 0.480 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 5
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 6
+Performance media: 0.440 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 7
+Performance media: 0.580 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 8
+Performance media: 0.640 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 9
+Performance media: 0.580 (std. deviation: 0.227)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 10
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 11
+Performance media: 0.620 (std. deviation: 0.140)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 12
+Performance media: 0.460 (std. deviation: 0.156)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 13
+Performance media: 0.600 (std. deviation: 0.253)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 14
+Performance media: 0.480 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 15
+Performance media: 0.520 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 16
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 17
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 18
+Performance media: 0.500 (std. deviation: 0.272)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 19
+Performance media: 0.500 (std. deviation: 0.205)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 20
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 21
+Performance media: 0.520 (std. deviation: 0.240)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 22
+Performance media: 0.480 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 23
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 24
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 25
+Performance media: 0.440 (std. deviation: 0.150)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 26
+Performance media: 0.580 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 27
+Performance media: 0.480 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 28
+Performance media: 0.580 (std. deviation: 0.209)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 29
+Performance media: 0.540 (std. deviation: 0.180)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 30
+Performance media: 0.380 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 31
+Performance media: 0.600 (std. deviation: 0.253)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 32
+Performance media: 0.460 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 33
+Performance media: 0.400 (std. deviation: 0.155)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 34
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 35
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 36
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 37
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 38
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 39
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 40
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 41
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 42
+Performance media: 0.600 (std. deviation: 0.126)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 43
+Performance media: 0.580 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 44
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 45
+Performance media: 0.640 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 46
+Performance media: 0.420 (std. deviation: 0.244)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 47
+Performance media: 0.580 (std. deviation: 0.227)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 48
+Performance media: 0.420 (std. deviation: 0.209)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 49
+Performance media: 0.560 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 50
+Performance media: 0.480 (std. deviation: 0.160)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 51
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 52
+Performance media: 0.560 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 53
+Performance media: 0.580 (std. deviation: 0.260)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 54
+Performance media: 0.520 (std. deviation: 0.160)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 55
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 56
+Performance media: 0.580 (std. deviation: 0.275)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 57
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 58
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 59
+Performance media: 0.480 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 60
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 61
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 62
+Performance media: 0.320 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 63
+Performance media: 0.480 (std. deviation: 0.286)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 64
+Performance media: 0.400 (std. deviation: 0.155)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 65
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 66
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 67
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 68
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 69
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 70
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 71
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 72
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 73
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 74
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 75
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 76
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 77
+Performance media: 0.460 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 78
+Performance media: 0.480 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 79
+Performance media: 0.420 (std. deviation: 0.140)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 80
+Performance media: 0.460 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 81
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 82
+Performance media: 0.480 (std. deviation: 0.286)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 83
+Performance media: 0.440 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 84
+Performance media: 0.600 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 85
+Performance media: 0.580 (std. deviation: 0.227)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 86
+Performance media: 0.520 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 87
+Performance media: 0.620 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 88
+Performance media: 0.560 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 89
+Performance media: 0.580 (std. deviation: 0.140)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 90
+Performance media: 0.620 (std. deviation: 0.209)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 91
+Performance media: 0.560 (std. deviation: 0.250)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 92
+Performance media: 0.580 (std. deviation: 0.227)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 93
+Performance media: 0.580 (std. deviation: 0.209)
+Parâmetros: {'penalty': 'none', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 94
+Performance media: 0.320 (std. deviation: 0.133)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 95
+Performance media: 0.520 (std. deviation: 0.271)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 96
+Performance media: 0.520 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.01, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 97
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 98
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 99
+Performance media: 0.520 (std. deviation: 0.160)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 100
+Performance media: 0.600 (std. deviation: 0.155)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 101
+Performance media: 0.600 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 102
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 103
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 104
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 105
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 106
+Performance media: 0.500 (std. deviation: 0.184)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 107
+Performance media: 0.500 (std. deviation: 0.257)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 108
+Performance media: 0.480 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 109
+Performance media: 0.640 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 110
+Performance media: 0.460 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 111
+Performance media: 0.460 (std. deviation: 0.269)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 112
+Performance media: 0.640 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 113
+Performance media: 0.540 (std. deviation: 0.156)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 114
+Performance media: 0.520 (std. deviation: 0.286)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 115
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 116
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 117
+Performance media: 0.500 (std. deviation: 0.224)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 118
+Performance media: 0.540 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 119
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 120
+Performance media: 0.520 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 121
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 122
+Performance media: 0.540 (std. deviation: 0.297)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 123
+Performance media: 0.520 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 124
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 125
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 126
+Performance media: 0.580 (std. deviation: 0.209)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 127
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 128
+Performance media: 0.520 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 129
+Performance media: 0.420 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 130
+Performance media: 0.420 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 131
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 132
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 133
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 134
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 135
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 136
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 137
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 138
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 139
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 140
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 141
+Performance media: 0.460 (std. deviation: 0.180)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 142
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 143
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 144
+Performance media: 0.440 (std. deviation: 0.265)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 145
+Performance media: 0.540 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 146
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 147
+Performance media: 0.560 (std. deviation: 0.250)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 148
+Performance media: 0.460 (std. deviation: 0.156)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 149
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 150
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 151
+Performance media: 0.500 (std. deviation: 0.257)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 152
+Performance media: 0.440 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 153
+Performance media: 0.620 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 154
+Performance media: 0.540 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 155
+Performance media: 0.560 (std. deviation: 0.250)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 156
+Performance media: 0.580 (std. deviation: 0.244)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 157
+Performance media: 0.480 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 158
+Performance media: 0.560 (std. deviation: 0.150)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 159
+Performance media: 0.440 (std. deviation: 0.280)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 160
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 161
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 162
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 163
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 164
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 165
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 166
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 167
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 168
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 169
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 170
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 171
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 172
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 173
+Performance media: 0.540 (std. deviation: 0.269)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 174
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 175
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 176
+Performance media: 0.500 (std. deviation: 0.161)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 177
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 178
+Performance media: 0.560 (std. deviation: 0.150)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 179
+Performance media: 0.600 (std. deviation: 0.219)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 180
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 181
+Performance media: 0.520 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 182
+Performance media: 0.580 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 183
+Performance media: 0.540 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 184
+Performance media: 0.500 (std. deviation: 0.241)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 185
+Performance media: 0.500 (std. deviation: 0.272)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 186
+Performance media: 0.460 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 187
+Performance media: 0.520 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 188
+Performance media: 0.500 (std. deviation: 0.272)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 189
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'none', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 190
+Performance media: 0.500 (std. deviation: 0.257)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 191
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 192
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 193
+Performance media: 0.640 (std. deviation: 0.150)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 194
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 195
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 196
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 197
+Performance media: 0.640 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 198
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 199
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 200
+Performance media: 0.640 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 201
+Performance media: 0.540 (std. deviation: 0.180)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 202
+Performance media: 0.560 (std. deviation: 0.233)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 203
+Performance media: 0.640 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 204
+Performance media: 0.480 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 205
+Performance media: 0.500 (std. deviation: 0.241)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 206
+Performance media: 0.620 (std. deviation: 0.244)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 207
+Performance media: 0.440 (std. deviation: 0.265)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 208
+Performance media: 0.520 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 209
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 210
+Performance media: 0.520 (std. deviation: 0.286)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 211
+Performance media: 0.600 (std. deviation: 0.237)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 212
+Performance media: 0.520 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'hinge'}
+
+Combinacao: 213
+Performance media: 0.520 (std. deviation: 0.133)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 214
+Performance media: 0.520 (std. deviation: 0.240)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 215
+Performance media: 0.460 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 216
+Performance media: 0.520 (std. deviation: 0.223)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'log'}
+
+Combinacao: 217
+Performance media: 0.540 (std. deviation: 0.180)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 218
+Performance media: 0.480 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 219
+Performance media: 0.580 (std. deviation: 0.303)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 220
+Performance media: 0.460 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'squared_hinge'}
+
+Combinacao: 221
+Performance media: 0.520 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 222
+Performance media: 0.520 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 223
+Performance media: 0.540 (std. deviation: 0.269)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 224
+Performance media: 0.440 (std. deviation: 0.150)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.1, 'loss': 'perceptron'}
+
+Combinacao: 225
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 226
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 227
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 228
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 229
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 230
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 231
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 232
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 233
+Performance media: 0.600 (std. deviation: 0.179)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 234
+Performance media: 0.540 (std. deviation: 0.220)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 235
+Performance media: 0.580 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 236
+Performance media: 0.560 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 237
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 238
+Performance media: 0.520 (std. deviation: 0.256)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 239
+Performance media: 0.600 (std. deviation: 0.200)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 240
+Performance media: 0.480 (std. deviation: 0.240)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 241
+Performance media: 0.560 (std. deviation: 0.196)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 242
+Performance media: 0.600 (std. deviation: 0.155)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 243
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 244
+Performance media: 0.520 (std. deviation: 0.271)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'hinge'}
+
+Combinacao: 245
+Performance media: 0.580 (std. deviation: 0.289)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 246
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 247
+Performance media: 0.580 (std. deviation: 0.244)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 248
+Performance media: 0.520 (std. deviation: 0.240)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'log'}
+
+Combinacao: 249
+Performance media: 0.500 (std. deviation: 0.161)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 250
+Performance media: 0.680 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 251
+Performance media: 0.640 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 252
+Performance media: 0.460 (std. deviation: 0.156)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'squared_hinge'}
+
+Combinacao: 253
+Performance media: 0.500 (std. deviation: 0.241)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 254
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 255
+Performance media: 0.540 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 256
+Performance media: 0.520 (std. deviation: 0.183)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.01, 'loss': 'perceptron'}
+
+Combinacao: 257
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 258
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 259
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 260
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 261
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 262
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 263
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 264
+Performance media: 0.460 (std. deviation: 0.201)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 265
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 266
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 267
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 268
+Performance media: 0.440 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 269
+Performance media: 0.440 (std. deviation: 0.215)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 270
+Performance media: 0.580 (std. deviation: 0.227)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 271
+Performance media: 0.460 (std. deviation: 0.156)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 272
+Performance media: 0.500 (std. deviation: 0.205)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'constant', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 273
+Performance media: 0.500 (std. deviation: 0.224)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 274
+Performance media: 0.520 (std. deviation: 0.204)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 275
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 276
+Performance media: 0.580 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'hinge'}
+
+Combinacao: 277
+Performance media: 0.520 (std. deviation: 0.160)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 278
+Performance media: 0.520 (std. deviation: 0.160)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 279
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 280
+Performance media: 0.560 (std. deviation: 0.250)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'log'}
+
+Combinacao: 281
+Performance media: 0.500 (std. deviation: 0.184)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 282
+Performance media: 0.580 (std. deviation: 0.227)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 283
+Performance media: 0.420 (std. deviation: 0.189)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 284
+Performance media: 0.580 (std. deviation: 0.166)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'squared_hinge'}
+
+Combinacao: 285
+Performance media: 0.560 (std. deviation: 0.307)
+Parâmetros: {'penalty': 'none', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 286
+Performance media: 0.560 (std. deviation: 0.174)
+Parâmetros: {'penalty': 'l1', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 287
+Performance media: 0.500 (std. deviation: 0.134)
+Parâmetros: {'penalty': 'l2', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
+Combinacao: 288
+Performance media: 0.540 (std. deviation: 0.254)
+Parâmetros: {'penalty': 'elasticnet', 'alpha': 0.0001, 'learning_rate': 'optimal', 'eta0': 0.001, 'loss': 'perceptron'}
+
