@@ -1,2 +1,0 @@
-Buscando para algoritmo: <class 'sklearn.svm.classes.SVC'>
-
